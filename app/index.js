@@ -1,1 +1,1 @@
-console.log("Hello world! (from Webpack with auto update)");
+console.log("Hello world! (from Webpack with bailey update)");
